@@ -1,5 +1,9 @@
 name: "Cast to Farcaster"
+author: "Harpalsinh Jadeja"
 description: "Cast to Farcaster"
+branding:
+    icon: "message-square"
+    color: "purple"
 inputs:
     message:
         description: "Message to cast"
